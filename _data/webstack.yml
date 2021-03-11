@@ -1027,7 +1027,7 @@
       description: 携程设计委员会-Ctrip Design Committee
 
 
-name: BT下载
+- name: BT下载
   icon: linecons-cloud
   links: 
     - title: Airbnb Design
