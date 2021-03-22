@@ -1034,4 +1034,15 @@
       url: https://www.yinfans.me
       logo: /assets/images/logos/yinfansi.png
       description: 高质量电影分享   
-    
+- name:Other
+  icon: linecons-other
+  links:
+    - title: Maven Repository
+      url: https://mvnrepository.com/
+      logo: /assets/images/logos/mvn.ico
+      description: coder must
+  links:
+    - title: Cloud Shell
+      url: https://shell.cloud.google.com/
+      logo:
+      description: 谷歌提供的免费主机    
