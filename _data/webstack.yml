@@ -1046,3 +1046,23 @@
       url: https://shell.cloud.google.com/
       logo:
       description: 谷歌提供的免费主机    
+  links:
+    - title: Airbnb Data
+      url: http://insideairbnb.com/get-the-data.html
+      logo:
+      description: 爱彼迎数据   
+  links:
+    - title: 机器学习课程
+      url: https://www.icourse163.org/learn/CUG-1003556007?tid=1003804007#/learn/announce
+      logo:
+      description: 中国大学MOOC-机器学习课程   
+  links:
+    - title: 力扣中国
+      url: https://leetcode-cn.com/problemset/all/
+      logo:
+      description: 力扣中国-题库，程序员提升必备
+  links:
+    - title: 力扣中国
+      url: https://leetcode-cn.com/problemset/all/
+      logo:
+      description: 力扣中国-题库，程序员提升必备
